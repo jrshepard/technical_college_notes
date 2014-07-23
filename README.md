@@ -1,2 +1,2 @@
-technical_college_notes
+Technical College Notes
 =======================
